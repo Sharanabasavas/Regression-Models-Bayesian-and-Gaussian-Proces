@@ -18,7 +18,6 @@ This project demonstrates the implementation of Ridge Regression, Bayesian Ridge
   - [Prediction Distribution Comparison](#prediction-distribution-comparison)
 - [Performance Evaluation](#performance-evaluation)
 - [Installation and Requirements](#installation-and-requirements)
-- [Conclusion](#conclusion)
 
 ## Introduction
 
@@ -78,5 +77,4 @@ Models are evaluated using:
 Ensure the following libraries are installed:
 ```bash
 pip install numpy pandas matplotlib scikit-learn
-
 
