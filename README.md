@@ -79,6 +79,4 @@ Ensure the following libraries are installed:
 ```bash
 pip install numpy pandas matplotlib scikit-learn
 
-## Conclusion
 
-This project explores the behavior of Ridge, Bayesian Ridge, and Gaussian Process Regression under different regularization strengths. By adjusting regularization parameters (alpha, alpha_1, alpha_2), you can observe how each model balances bias and variance, ensuring effective generalization to unseen data.
